@@ -1,3 +1,19 @@
+# Welcome React Starter Kit!
+
+This project is a React Starter Kit with basic tools and examples of their use.
+
+
+##  Tools used
+
+ - React: V17
+ - react-hook-form: V7
+ - react-redux: V7
+ - redux-saga: V1
+ - react-router-dom: V5
+ - redux-saga: V1
+ - bootstrap: V5
+
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
